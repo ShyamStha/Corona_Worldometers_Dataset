@@ -34,4 +34,4 @@ This is the dataset provided by DeepMindCreations with a aim to scrap the data f
 # Credits
 All thanks and credit goes to DeepMindCreations for providing and giving me chance to explore the datasets.
 
-### SantoshThapa 2021
+### Shyamstha 2021
